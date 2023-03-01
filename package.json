@@ -1,0 +1,23 @@
+{
+  "name": "city-skyline-night-blackout",
+  "version": "1.0.0",
+  "description": "A balcked out night city skyline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-rizz/City-Skyline-Night-Blackout.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS"
+  ],
+  "author": "Conrad P. B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/G-rizz/City-Skyline-Night-Blackout/issues"
+  },
+  "homepage": "https://github.com/G-rizz/City-Skyline-Night-Blackout#readme"
+}
