@@ -1,5 +1,5 @@
 # City-Skyline-Night-Blackout
-Full moon night as a backdrop to a blacked out city skyline
+Full moon night as a backdrop to a blacked out city skyline. This project transitions from day time to night time depending on the size of the browser from which its being viewed.
 
 This project is a simple webpage that displays a city skyline using HTML and CSS. The webpage consists of two sections - the background buildings and the foreground buildings. The background buildings are displayed in the back of the webpage, while the foreground buildings are displayed in the front.
 
